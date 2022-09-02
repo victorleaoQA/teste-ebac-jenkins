@@ -19,5 +19,8 @@
   "homepage": "https://github.com/victorleaoQA/teste-ebac-ui#readme",
   "devDependencies": {
     "cypress": "^10.7.0"
+  },
+  "dependencies": {
+    "node": "^16.13.2"
   }
 }
